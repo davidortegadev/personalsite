@@ -30,3 +30,14 @@ blockquote{
 	justify-content: space-between;
 	display: flex;
 }
+.skills {
+	list-style-type:none;
+	padding: 0;
+	margin-bottom: 10px;
+
+}
+.skills>li {
+	float: left;
+	display: inline;
+	width: 50%;
+}
