@@ -48,3 +48,11 @@ li{
 	display: inline;
 	width: 50%;
 }
+.subhr {
+	border: 1px solid #d4d4d4;
+	border-radius: 2px;
+}
+.projectpic{
+	margin: 10px 5px 5px 5px;
+	border: 2px solid pink;
+}
