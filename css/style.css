@@ -27,7 +27,9 @@ ul{
 li{
 	list-style-type: none;
 }
-
+a{
+	color: pink;
+}
 .nav {
 	font-family: 'Poppins', sans-serif;
 	list-style-type:none;
