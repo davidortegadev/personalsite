@@ -55,6 +55,13 @@ a{
 	border-radius: 2px;
 }
 .projectpic{
-	margin: 10px 5px 5px 5px;
 	border: 2px solid pink;
+	margin: 10px 5px 5px 5px;
+}
+.projects li:nth-of-type(odd) img{
+	float: left;
+}
+
+.projects li:nth-of-type(even) img{
+	float: right;
 }
